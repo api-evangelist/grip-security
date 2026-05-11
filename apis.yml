@@ -28,6 +28,13 @@ common:
     url: https://www.grip.security
   - type: Documentation
     url: https://www.grip.security/resources
+  - type: Integrations
+    url: https://www.grip.security/integrations
+integrations:
+  - name: SailPoint​
+  - name: SecurityScorecard​
+  - name: ServiceNow ITSM
+  - name: ServiceNow CMDB
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
