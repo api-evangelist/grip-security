@@ -3,7 +3,7 @@ name: Grip Security
 description: >-
   Grip Security is a SaaS security control plane providing identity governance, shadow SaaS discovery, and data loss prevention for cloud applications.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Identity Governance
   - SaaS Security
