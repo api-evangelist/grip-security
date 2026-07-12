@@ -24,6 +24,8 @@ apis:
       - type: Documentation
         url: https://www.grip.security/resources
 common:
+  - type: DomainSecurity
+    url: security/grip-security-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/grip-security
   - type: Website
@@ -32,6 +34,8 @@ common:
     url: https://www.grip.security/resources
   - type: Integrations
     url: https://www.grip.security/integrations
+  - url: https://www.grip.security/blog
+    type: Blog
 integrations:
   - name: SailPoint​
   - name: SecurityScorecard​
